@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🌱I'm currently studying in Software University<br>I'm looking to develop my skills<br>⚡I'm a book lover
+🌱I'm currently studying in Software University<br>🎯I'm looking to develop my skills<br>⚡I'm a book lover
 
 
 ## 🌐 Socials:
